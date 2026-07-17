@@ -76,11 +76,11 @@ I'm an aspiring **Full Stack Developer** with a passion for building interactive
 ### 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hp39320-a11y&theme=tokyonight" alt="GitHub Profile Summary" height="200" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Summary" height="200" />
 </p>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hp39320-a11y&theme=tokyonight" alt="Repositories per Language" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hp39320-a11y&theme=tokyonight" alt="Most Commits per Language" height="200" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per Language" height="200" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commits per Language" height="200" />
 </p>
 
 ---
